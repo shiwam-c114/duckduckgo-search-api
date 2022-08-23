@@ -1,0 +1,16 @@
+{
+  "name": "duckduckgo-search-api",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "search",
+    "duckduckgo",
+    "image search"
+  ],
+  "author": "shiwam-c114 <https://github.com/shiwam-C114>",
+  "license": "ISC"
+}
